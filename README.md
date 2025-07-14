@@ -52,7 +52,3 @@ VishwasSetu is a web application that enables secure analytics and collaboration
 - `src/hooks/` – Custom React hooks
 - `src/lib/` – Utility functions
 - `public/` – Static assets
-
-## License
-
-Specify your license here. 
